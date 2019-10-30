@@ -1,1 +1,1 @@
-# Kaggle Competition code 
+# Kaggle Competition Code
