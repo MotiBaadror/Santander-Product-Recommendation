@@ -1,3 +1,1 @@
-# Kaggle Competition Code
-
-code
+# Kaggle Competition
